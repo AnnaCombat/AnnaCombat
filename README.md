@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá! 👋
 
-<!--
-**AnnaCombat/AnnaCombat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Biografia:
 
-Here are some ideas to get you started:
+Desenvolvedora Full Stack em formação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente em transição da carreira de fotógrafa para desenvolvedora
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaCombat&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+##Projetos:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnnaCombat&repo=annacombat.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+#Contatos: (21) 9 9441-0777
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/anna-combat)
