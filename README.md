@@ -14,6 +14,8 @@ Atualmente em transição da carreira de fotógrafa para desenvolvedora
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnnaCombat&repo=annacombat.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
-#Contatos: (21) 9 9441-0777
+#Contatos: 
+
+(21) 9 9441-0777
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/anna-combat)
