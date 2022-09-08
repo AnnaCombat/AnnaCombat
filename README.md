@@ -2,7 +2,7 @@
 
 ### Biografia:
 
-Desenvolvedora Full Stack em formação
+Desenvolvedora front-end em formação
 
 Atualmente em transição da carreira de fotógrafa para desenvolvedora web
 
